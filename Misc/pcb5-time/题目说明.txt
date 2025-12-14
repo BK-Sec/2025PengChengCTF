@@ -1,0 +1,16 @@
+题目: pcb5-time
+类型: Misc
+--------------------
+链接: https://pan.baidu.com/s/1EeFg3ZzanmVTPsL187DRqg
+提取码: 1234
+--------------------
+pcb5-time
+Misc
+200
+描述：
+What time is it?（flag 为全小写）
+通过网盘分享的文件：time.zip
+链接: https://pan.baidu.com/s/1EeFg3ZzanmVTPsL187DRqg?pwd=1234 提取码: 1234
+URL：
+192.168.18.31:24001
+

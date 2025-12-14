@@ -1,0 +1,13 @@
+题目: pcb5-Chaos_Matrix
+类型: Reverse
+--------------------
+链接: https://pan.baidu.com/s/1CIwnDZNxUYhqLIKtD3TyzA
+提取码: 1234
+--------------------
+pcb5-Chaos_Matrix
+Reverse
+300
+描述：
+汽车的 T-Box (远程信息处理单元) 是车辆安全防护的最后一道防线。为了防止未经授权的诊断和固件篡改，该 T-Box 固件在执行敏感的 诊断会话 27 (SecurityAccess) 握手时，采用了企业自定义的 VMCODEv3 虚拟机 来动态生成密钥。你获得了 T-Box 固件的关键碎片 tboooox和一份包含诊断流量的 CAN 日志。我们的目标是：逆向这个虚拟机，并生成正确的 SecurityAccess Key，以证明我们拥有对 T-Box 的完全控制权。 通过网盘分享的文件：Chaos_Matrix的附件.zip
+链接: https://pan.baidu.com/s/1CIwnDZNxUYhqLIKtD3TyzA?pwd=1234 提取码: 1234
+

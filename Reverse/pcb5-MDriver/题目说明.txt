@@ -1,0 +1,15 @@
+题目: pcb5-MDriver
+类型: Reverse
+--------------------
+链接: https://pan.baidu.com/s/1lenuZ1b2IyxDEMGwXwUoqw
+提取码: 1234
+--------------------
+pcb5-MDriver
+Reverse
+400
+描述：
+你作为一个经验丰富的逆向专家，在有一天你的朋友小M给了你一个样本，他说可以通过执行一个应用层程序自动获得flag！但是他在给你的时候不小心把应用层程序弄丢了。
+你需要分析该驱动程序并自行编写应用层程序通过与驱动进行通信获得flag。
+通过网盘分享的文件：MDriver.zip
+链接: https://pan.baidu.com/s/1lenuZ1b2IyxDEMGwXwUoqw?pwd=1234 提取码: 1234
+

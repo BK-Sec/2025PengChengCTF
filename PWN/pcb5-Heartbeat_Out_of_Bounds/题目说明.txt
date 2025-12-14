@@ -1,0 +1,17 @@
+题目: pcb5-Heartbeat_Out_of_Bounds
+类型: PWN
+--------------------
+链接: https://pan.baidu.com/s/1KKG_hRJJR5LYMHNfEY7XzA
+提取码: 1234
+--------------------
+pcb5-Heartbeat_Out_of_Bounds
+PWN
+300
+描述：
+某车企团队最近迎来了一位热衷于性能优化的实习生。他认为车载 IVI 系统上的 MQTT 客户端（负责远程诊断和 OTA 通知）在处理消息时有不必要的开销，尤其是在最常用的 QoS 0 (At Most Once) 级别。
+为了“提升”性能，他简化了消息队列和负载处理逻辑，试图更快地将数据送达应用层。然而，在追求极致速度的过程中，他却无意间在客户端中撕开了一个微小的漏洞。
+现在，这个优化后的 MQTT 客户端作为车辆网关的核心组件，正在 nc [target_ip] [target_port] 上运行，等待来自 Broker 的消息。 通过网盘分享的文件：Heartbeat Out-of-Bounds的附件.zip
+链接: https://pan.baidu.com/s/1KKG_hRJJR5LYMHNfEY7XzA?pwd=1234 提取码: 1234
+URL：
+192.168.18.23:19999
+

@@ -1,0 +1,13 @@
+题目: pcb5-The_Rogue_Beacon
+类型: Misc
+--------------------
+链接: https://pan.baidu.com/s/1KeVkLFRrf1YGLWjt3VjfKg
+提取码: 1234
+--------------------
+pcb5-The_Rogue_Beacon
+Misc
+200
+描述：
+某自动驾驶初创公司的测试车在进行极限速度测试时发生了数剧中断。竞争对手截获了测试期间的 CAN 总线广播数据。我们需要评估这辆原型车的动力性能极限。附件是一个.pcap 文件，记录了底盘动力域（Chassis Domain）的所有通信。请剥离出干扰数据，锁定车速信号，并向总部报告车辆达到的峰值速度发生的确切位置。 通过网盘分享的文件：The Rogue Beacon的附件.zip
+链接: https://pan.baidu.com/s/1KeVkLFRrf1YGLWjt3VjfKg?pwd=1234 提取码: 1234
+

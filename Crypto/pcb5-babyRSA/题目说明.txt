@@ -1,0 +1,14 @@
+题目: pcb5-babyRSA
+类型: Crypto
+--------------------
+链接: https://pan.baidu.com/s/1-FCeXSSeKmgq_tmWQm7tjg
+提取码: 1234
+--------------------
+pcb5-babyRSA
+Crypto
+200
+描述：
+参数咋这么少呢？
+通过网盘分享的文件：babyrsa.zip
+链接: https://pan.baidu.com/s/1-FCeXSSeKmgq_tmWQm7tjg?pwd=1234 提取码: 1234
+

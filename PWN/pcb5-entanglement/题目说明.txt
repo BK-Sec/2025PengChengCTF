@@ -1,0 +1,16 @@
+题目: pcb5-entanglement
+类型: PWN
+--------------------
+链接: https://pan.baidu.com/s/1qNJ5zFo-a9diDoE9ZN4K0A
+提取码: 1234
+--------------------
+pcb5-entanglement
+PWN
+200
+描述：
+量子纠缠这一块。
+通过网盘分享的文件：entanglement.zip
+链接: https://pan.baidu.com/s/1qNJ5zFo-a9diDoE9ZN4K0A?pwd=1234 提取码: 1234
+URL：
+192.168.18.20:26001
+
